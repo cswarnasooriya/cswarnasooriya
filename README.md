@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?b=1&k=20&m=1047259374&s=612x612&w=0&h=7TMYTW-rccv_qf_O62FtlghaW8-XlOkMOh_Vh6xlQBg=)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcCduvQ9SeNariY4FsJFrNIl5YTi6-bWeStA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Sandaruwan Warnasooriya</h1>
 <h3 align="center">Dip. in HRM(IMBS Green Campus-Kurunegala) | Undergraduate student of Sabaragamuwa University of University of Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
