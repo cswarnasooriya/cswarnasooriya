@@ -1,4 +1,4 @@
-![MasterHead][[(https://images.unsplash.com/photo-1546900703-cf06143d1239?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtk570HKSLfdmQRKnVqujHuI63zpyZDnnCJg&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyq8wBXHcfg2aerb4N5CpanIJvfPI_bU7nqg&usqp=CAU))
+![MasterHead][[[(https://images.unsplash.com/photo-1546900703-cf06143d1239?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtk570HKSLfdmQRKnVqujHuI63zpyZDnnCJg&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyq8wBXHcfg2aerb4N5CpanIJvfPI_bU7nqg&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyq8wBXHcfg2aerb4N5CpanIJvfPI_bU7nqg&usqp=CAU))
 <h1 align="center">Hi 👋, I'm Sandaruwan Warnasooriya</h1>
 <h3 align="center">Dip. in HRM(IMBS Green Campus-Kurunegala) | Undergraduate student of Sabaragamuwa University of Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
